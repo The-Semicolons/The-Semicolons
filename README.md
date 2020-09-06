@@ -29,6 +29,7 @@ At The Semicolons, we develop innovative and creative solutions for real-world s
 3. **Member -** [Ishaan Agarwal](https://www.linkedin.com/in/ishan-agarwal-8012231a4/)
 4. **Member -** [Tanya Malhotra](https://www.linkedin.com/in/tanya-malhotra-0999001a9/)
 5. **Member -** [Vanshaj Goel](https://www.linkedin.com/in/vanshaj-goel-593833163/)
+6. **Member -** [Dibyasom Puhan](https://in.linkedin.com/in/dibyasom-puhan-433852190/)
 
 
 ## Connect on Social Media
