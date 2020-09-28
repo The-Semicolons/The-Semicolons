@@ -11,8 +11,8 @@ At The Semicolons, we develop innovative and creative solutions for real-world s
 2. **Mobile Development** *In React Native, Java and Kotlin*
 3. **Desktop Development** *In C/C++.NET & Python*
 4. **IOT Development** *In Arduino*
-5. **Database Management** *In MySQL, MongoDB & PhpMyAdmin*
-6. **AI & ML Applications** *In Python & Ibm cloud*
+5. **Database Management** *In MySQL, MongoDB, PhpMyAdmin & Google Firebase*
+6. **AI & ML Applications** *In Python & IBM Cloud*
 
 
 # Recent Projects
