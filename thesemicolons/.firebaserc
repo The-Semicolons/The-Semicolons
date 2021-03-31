@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "semicolons-v1"
+  },
+  "targets": {
+    "semicolons-v1": {
+      "hosting": {
+        "thesemicolons": [
+          "thesemicolons"
+        ]
+      }
+    }
+  }
+}
